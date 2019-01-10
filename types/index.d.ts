@@ -5,6 +5,7 @@
 // TypeScript Version: 2.7
 
 /// <reference path="./jsrsasign.d.ts" />
+/// <reference path="./modules/ECFieldElementFp.d.ts" />
 /// <reference path="./modules/BigInteger.d.ts" />
 /// <reference path="./modules/ECCurveFp.d.ts" />
 /// <reference path="./modules/ECPointFp.d.ts" />
